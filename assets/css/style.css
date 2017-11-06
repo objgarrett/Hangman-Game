@@ -1,0 +1,32 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color:#203051;
+  color:#e10042;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size:75px;
+	font-weight:700;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.caption{
+	position:absolute;
+	top:22%;
+	left:0;
+	width:100%;
+}
+.container {
+	margin-top:20px;
+}
+.col{
+	border:2px dashed;
+	padding:20px;
+}
